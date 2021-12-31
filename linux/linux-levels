@@ -1,0 +1,11 @@
+-> in Linux System we arrange components in layers or levels:
+        [         Applications - programs, browser etc    ]   -  Top layer
+	                            |
+				    |
+	[        Operating system - Linux os or any os   ]    -  Middle layer
+	                            |
+				    |
+	[        Hardware - a physical device            ]    - Bottom Layer
+
+
+->   hardware - level up -> kernel { tells cpu what to do and creates interfacing between hardware and program and manage hardware accordingly } - Manages -> Processes { the running programs that the kernel manages—collectively make up the system’s upper level, called user space. } -   
